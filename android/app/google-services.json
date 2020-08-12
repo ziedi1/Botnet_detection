@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757794402555",
+    "firebase_url": "https://botnetdetection.firebaseio.com",
+    "project_id": "botnetdetection",
+    "storage_bucket": "botnetdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757794402555:android:c728dd10ea577c5ed4805e",
+        "android_client_info": {
+          "package_name": "com.example.botnet_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757794402555-era3m12vsvaat7oj84eh4fcon8ph7flu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsk_Hh8fee2nnfheDPZCOTLZbJZcU5_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757794402555-era3m12vsvaat7oj84eh4fcon8ph7flu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
